@@ -6,7 +6,7 @@ This prototype was inspired by Wunderlist App with the goal of exploring React a
 
   - Create Categories.
   - Navigate through the categories.
-  - Create todos to the clicked category.
+  - Create todos in the clicked category.
   - Delete todos for the category
   - Store the deleted todos in a deletedList.
   - Show/hide the deletedList
